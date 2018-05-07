@@ -1,0 +1,7 @@
+# Add additional backend-specific configurations in here
+
+dbAlias=//localhost:3306/fenixedu
+dbUsername=root
+dbPassword=
+
+updateRepositoryStructureIfNeeded = true
